@@ -13,9 +13,9 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/janwee-sha/janwee-sha/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 <!-- 自我介绍 -->
-🙋 A tired old introduction
+# 🙋 A tired old introduction:
 
-<p>&nbsp;&nbsp;Hi, guys! My name is Janwee, a software engineer with 3 years' work experience.</p>
+<p>&emsp;&emsp;Hi, guys! My name is Janwee, a software engineer with 3 years' work experience.</p>
 <p>&emsp;&emsp;I think being a computer geek is a cool thing, and I'm trying to become one. We developers can do lots of incredible things with some curiosity and hard work.</p>
 <p>&emsp;&emsp;I love typing codes, and reading them, especially clean and maintainable codes.</p>
 <p>&emsp;&emsp;My mtto is "life‘s not a problem to solve,but a journey to experience."</p>
