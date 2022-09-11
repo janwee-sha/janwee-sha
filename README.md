@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%22B-tree...%2CJVM...%22;Er...Hi!Solving%2Cproblems!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%22B-tree...%2CJVM...%22;Uh...Hi!A bit tense here!&center=true&size=27">
   </a>
 </h1>
 
