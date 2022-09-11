@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](/?user=DenverCoder1)](/streak-stats)
+[![GitHub Streak](/?user=janwee-sha)](/streak-stats)
 
 <!--
 **janwee-sha/janwee-sha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
