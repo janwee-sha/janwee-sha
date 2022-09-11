@@ -28,7 +28,7 @@
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=janwee-sha&theme=xcode)](https://github.com/janwee-sha)
 
-<h2 align="center">Connect Me !! 🤝</h2> 
+<h2 align="center">Contact Me !! 🤝</h2> 
 
 <p align="center">
 <a href="https://github.com/janwee-sha" target="_blank">
