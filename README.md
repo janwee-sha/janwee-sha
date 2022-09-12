@@ -37,7 +37,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=janwee-sha&repo=java-in-practice&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=janwee-sha&theme=xcode)](https://github.com/janwee-sha)
+<!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=janwee-sha&theme=xcode)](https://github.com/janwee-sha) -->
 
 ## &#x270d; Blogs & Reading Notes
 
