@@ -13,18 +13,35 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/janwee-sha/janwee-sha/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 <!-- 自我介绍 -->
-# ✍️ A tired old introduction:
+# Hello, guys! <img src="https://github.com/janwee-sha/janwee-sha/blob/main/material/wave.gif" width="30px" height="30px" />
 
-<p>&emsp;&emsp;Hi, guys!👋 My name is Janwee, a software engineer with 3 years' work experience.</p>
+<p>&emsp;&emsp;My name is Janwee, a software engineer with 3 years' work experience.</p>
 <p>&emsp;&emsp;I think being a computer geek is a cool thing, and I'm trying to become one. We developers can do lots of incredible things with some curiosity and hard work.</p>
 <p>&emsp;&emsp;I love typing codes, and reading them, especially clean and maintainable codes.</p>
 <p>&emsp;&emsp;My mtto is "life‘s not a problem to solve,but a journey to experience."</p>
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/janwee-sha/janwee-sha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janwee-sha&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/janwee-sha/janwee-sha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=janwee-sha&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Janwee's GitHub Stats" />
+</a>
+
+<a href="https://github.com/janwee-sha/algorithms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=janwee-sha&repo=algorithms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/janwee-sha/java-in-practice">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=janwee-sha&repo=java-in-practice&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
+
 <!-- GitHub数据统计 -->
-<div align="center">
+<!-- <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=janwee-sha&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janwee-sha&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
+</div> -->
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=janwee-sha&theme=xcode)](https://github.com/janwee-sha)
 
