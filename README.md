@@ -46,7 +46,7 @@ Some of my recent blogs and reading notes:
 <!-- BLOG-POST-LIST:START -->
 - [Build a CI/CD pipeline with GitHub, Docker, and Jenkins](https://cloud.tencent.com/developer/article/1994271)
 - [A reading note of Cay S. Horstman's Core Java](https://github.com/janwee-sha/java-in-practice/blob/main/README.md)
-- [A reading note of Introduction to Algorithms and some other blogs about algorithms](https://github.com/janwee-sha/algorithms/blob/main/README.md)
+- [A reading note of Introduction to Algorithms and some blogs about algorithms](https://github.com/janwee-sha/algorithms/blob/main/README.md)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">Contact Me !! 🤝</h2> 
