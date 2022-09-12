@@ -31,14 +31,16 @@
 <h2 align="center">Contact Me !! 🤝</h2> 
 
 <p align="center">
-<a href="https://github.com/janwee-sha" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.cn/incareer/in/janwee-sha-230577212" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<!-- <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> -->
-<!-- <a href="mailto:janwee_sha@outlook.com" target="_blank"> -->
-<img alt="Outlook" src="https://img.shields.io/badge/microsoftoutlook.svg?&style=for-the-badge&logo=outlook&logoColor=white"/>
-<!-- </a> -->
+  <!-- GitHub -->
+  <a href="https://github.com/janwee-sha" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.cn/incareer/in/janwee-sha-230577212" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <!-- Outlook -->
+  <a href="mailto:janwee_sha@outlook.com"/>
+    <img alt="Outlook" src="https://img.shields.io/badge/microsoftoutlook.svg?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+  </a>
 </p>
