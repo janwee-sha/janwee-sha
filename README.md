@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%22B-tree...Hash%20Tables...%22;Uh...Hi!A%20bit%20tense%20here...&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%22B-tree...Hash%20Tables...%22;%22Uh...Hi!A%20bit%20tense%20here...%22&center=true&size=27">
   </a>
 </h1>
 
@@ -35,15 +35,19 @@
 
 <a href="https://github.com/janwee-sha/java-in-practice">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=janwee-sha&repo=java-in-practice&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
-
-<!-- GitHub数据统计 -->
-<!-- <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=janwee-sha&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janwee-sha&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div> -->
+</a>
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=janwee-sha&theme=xcode)](https://github.com/janwee-sha)
+
+## &#x270d; Blogs & Reading Notes
+
+Some of my recent blogs and reading notes:
+
+<!-- BLOG-POST-LIST:START -->
+- [Build a CI/CD pipeline with GitHub, Docker, and Jenkins](https://cloud.tencent.com/developer/article/1994271)
+- [A reading note of Cay S. Horstman's Core Java](https://github.com/janwee-sha/java-in-practice/blob/main/README.md)
+- [A reading note of Introduction to Algorithms and some other blogs about algorithms](https://github.com/janwee-sha/algorithms/blob/main/README.md)
+<!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">Contact Me !! 🤝</h2> 
 
