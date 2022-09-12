@@ -39,8 +39,8 @@
   <a href="https://www.linkedin.cn/incareer/in/janwee-sha-230577212" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <!-- Outlook -->
-  <a href="mailto:janwee_sha@outlook.com"/>
-    <img alt="Outlook" src="https://img.shields.io/badge/microsoftoutlook.svg?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+  <!-- Gmail -->
+  <a href="mailto:janweesha@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
