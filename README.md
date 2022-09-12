@@ -39,6 +39,6 @@
 </a>
 <!-- <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> -->
 <!-- <a href="mailto:janwee_sha@outlook.com" target="_blank"> -->
-<img alt="Outlook" src="https://img.shields.io/badge/microsoftoutlook.svg?&style=for-the-badge&logo=&logoColor=white"/>
+<img alt="Outlook" src="https://img.shields.io/badge/microsoftoutlook.svg?&style=for-the-badge&logo=outlook&logoColor=white"/>
 <!-- </a> -->
 </p>
