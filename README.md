@@ -47,6 +47,8 @@ Some of my recent blogs and reading notes:
 - [Build a CI/CD pipeline with GitHub, Docker, and Jenkins](https://cloud.tencent.com/developer/article/1994271)
 - [A reading note of Cay S. Horstman's Core Java](https://github.com/janwee-sha/java-in-practice/blob/main/README.md)
 - [A reading note of Introduction to Algorithms and some blogs about algorithms](https://github.com/janwee-sha/algorithms/blob/main/README.md)
+- [A reading notes of Jeff Nickoloff's Docker in Action](https://github.com/janwee-sha/reading-notes/blob/main/SystemDesign/Kubernetes.in.Action.md)
+- [Eric Evans's Domain-Driven Design and Vaughn Vernon's Implementing Domain-Driven Design](https://github.com/janwee-sha/reading-notes/blob/main/DesignPattern/Domain.Driven.Design.and.Implementing.Domain.Driven.Design.md)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">Contact Me !! 🤝</h2> 
