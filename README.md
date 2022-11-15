@@ -17,28 +17,9 @@
 <p>&emsp;&emsp;I love typing codes, and reading them, especially clean and maintainable codes.</p>
 <p>&emsp;&emsp;My mtto is "life‘s not a problem to solve,but a journey to experience."</p>
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/janwee-sha/janwee-sha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janwee-sha&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/janwee-sha/janwee-sha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=janwee-sha&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Janwee's GitHub Stats" />
-</a>
-
-<a href="https://github.com/janwee-sha/algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=janwee-sha&repo=algorithms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/janwee-sha/java-in-practice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=janwee-sha&repo=java-in-practice&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=janwee-sha&theme=xcode)](https://github.com/janwee-sha) -->
-
 ## &#x270d; Blogs & Reading Notes
 
-Some of my recent blogs and reading notes:
+Here are some recent blogs and reading notes of mine:
 
 <!-- BLOG-POST-LIST:START -->
 - [Build a CI/CD pipeline with GitHub, Docker, and Jenkins](https://cloud.tencent.com/developer/article/1994271)
@@ -47,6 +28,15 @@ Some of my recent blogs and reading notes:
 - [A reading notes of Jeff Nickoloff's Docker in Action](https://github.com/janwee-sha/reading-notes/blob/main/SystemDesign/Kubernetes.in.Action.md)
 - [Eric Evans's Domain-Driven Design and Vaughn Vernon's Implementing Domain-Driven Design](https://github.com/janwee-sha/reading-notes/blob/main/DesignPattern/Domain.Driven.Design.and.Implementing.Domain.Driven.Design.md)
 <!-- BLOG-POST-LIST:END -->
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/janwee-sha/janwee-sha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janwee-sha&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/janwee-sha/janwee-sha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=janwee-sha&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Janwee's GitHub Stats" />
+</a>
 
 <h2 align="center">Contact Me !! 🤝</h2> 
 
