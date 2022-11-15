@@ -9,9 +9,6 @@
 <div align="center" ><img order-radius="100px" src="https://github.com/janwee-sha/janwee-sha/blob/main/material/typing_code.gif"/></div>
 <br>
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/janwee-sha/janwee-sha/contribution-snake/github-contribution-grid-snake.svg" /></div>
-
 <!-- 自我介绍 -->
 # Hello, guys! <img src="https://github.com/janwee-sha/janwee-sha/blob/main/material/wave.gif" width="30px" height="30px" />
 
