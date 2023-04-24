@@ -17,17 +17,17 @@
 <p>&emsp;&emsp;I love typing codes, and reading them, especially clean and maintainable codes.</p>
 <p>&emsp;&emsp;My mtto is "life‘s not a problem to solve,but a journey to experience."</p>
 
-## &#x270d; Blogs & Reading Notes
+## &#x270d; Blogs
 
-Here are some recent blogs and reading notes of mine:
+Here are some blogs of mine:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ways to make 2 threads execute by turns in Java](https://jan-wee.net/2023/04/24/ways-to-make-threads-execute-in-turns-in-java/)
-- [Build a CI/CD pipeline with GitHub, Docker, and Jenkins](https://jan-wee.net/2023/04/24/building-a-cicd-pipeline-using-jenkins-docker-and-github/)
+- [CAS Support in Java/](https://jan-wee.net/2023/04/24/cas-support-in-java/)
+- [Saturation Policies of ThreadPoolExecutor in Java](https://jan-wee.net/2023/04/24/saturation-policies-of-threadpoolexecutor/)
+- [Ways to Make 2 Threads Execute by Turns in Java](https://jan-wee.net/2023/04/24/ways-to-make-threads-execute-in-turns-in-java/)
+- [Building a CI/CD Pipeline with GitHub, Docker, and Jenkins](https://jan-wee.net/2023/04/24/building-a-cicd-pipeline-using-jenkins-docker-and-github/)
 - [Using Nginx as a Load Balancer of MySQL](https://jan-wee.net/2023/04/24/using-nginx-as-a-load-balancer-of-mysql/)
-- [A reading note of Cay S. Horstman's Core Java](https://github.com/janwee-sha/java-in-practice/blob/main/README.md)
-- [A reading note of Baron Schewartz's High Performance MySQL, Third Edition](https://github.com/janwee-sha/reading-notes/blob/main/SQL/High.Performance.MySQL.md)
-- [Eric Evans's Domain-Driven Design and Vaughn Vernon's Implementing Domain-Driven Design](https://github.com/janwee-sha/reading-notes/blob/main/DesignPattern/Domain.Driven.Design.and.Implementing.Domain.Driven.Design.md)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
