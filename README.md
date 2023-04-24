@@ -22,9 +22,9 @@
 Here are some recent blogs and reading notes of mine:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ways to make 2 threads execute by turns in Java](https://github.com/janwee-sha/my-posts/blob/main/Java/Ways.to.make.2.threads.execute.by.turns.in.Java.md)
-- [Build a CI/CD pipeline with GitHub, Docker, and Jenkins](https://github.com/janwee-sha/my-posts/blob/main/SystemDesign/Building.a.CI.CD.Pipeline.Using.Jenkins.Docker.and.Jenkins.md)
-- [Using Nginx as a Load Balancer of MySQL](https://github.com/janwee-sha/my-posts/blob/main/SystemDesign/Using.nginx.as.a.TCP.load.balancer.of.MySQL.md)
+- [Ways to make 2 threads execute by turns in Java](https://jan-wee.net/2023/04/24/ways-to-make-threads-execute-in-turns-in-java/)
+- [Build a CI/CD pipeline with GitHub, Docker, and Jenkins](https://jan-wee.net/2023/04/24/building-a-cicd-pipeline-using-jenkins-docker-and-github/)
+- [Using Nginx as a Load Balancer of MySQL](https://jan-wee.net/2023/04/24/using-nginx-as-a-load-balancer-of-mysql/)
 - [A reading note of Cay S. Horstman's Core Java](https://github.com/janwee-sha/java-in-practice/blob/main/README.md)
 - [A reading note of Baron Schewartz's High Performance MySQL, Third Edition](https://github.com/janwee-sha/reading-notes/blob/main/SQL/High.Performance.MySQL.md)
 - [Eric Evans's Domain-Driven Design and Vaughn Vernon's Implementing Domain-Driven Design](https://github.com/janwee-sha/reading-notes/blob/main/DesignPattern/Domain.Driven.Design.and.Implementing.Domain.Driven.Design.md)
