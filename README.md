@@ -14,7 +14,7 @@
 
 <p>&emsp;&emsp;My name is Will. 5 years' work experience as a backend software engineer.</p>
 <p>&emsp;&emsp;I think being a computer geek is a cool thing, and I'm trying to become one. We developers can do lots of incredible things with some curiosity and hard work.</p>
-<p>&emsp;&emsp;I love typing codes, and reading them, especially clean and maintainable codes.</p>
+<p>&emsp;&emsp;Despite inevitably having to deal with various code smells like shit at work, I still prefer to keep my code clean and maintainable.</p>
 <p>&emsp;&emsp;My motto is "Few unquestionable truths exist; most are errors wrapped in authority."</p>
 
 ## &#x270d; Blogs
