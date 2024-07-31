@@ -15,14 +15,14 @@
 <p>&emsp;&emsp;My name is Janwee, a software engineer with 3 years' work experience.</p>
 <p>&emsp;&emsp;I think being a computer geek is a cool thing, and I'm trying to become one. We developers can do lots of incredible things with some curiosity and hard work.</p>
 <p>&emsp;&emsp;I love typing codes, and reading them, especially clean and maintainable codes.</p>
-<p>&emsp;&emsp;My mtto is "life‘s not a problem to solve,but a journey to experience."</p>
+<p>&emsp;&emsp;My motto is "Few unquestionable truths; most are errors wrapped in authority."</p>
 
 ## &#x270d; Blogs
 
 Here are some blogs of mine:
 
 <!-- BLOG-POST-LIST:START -->
-- [CAS Support in Java/](https://jan-wee.net/2023/04/24/cas-support-in-java/)
+- [CAS Support in Java](https://jan-wee.net/2023/04/24/cas-support-in-java/)
 - [Saturation Policies of ThreadPoolExecutor in Java](https://jan-wee.net/2023/04/24/saturation-policies-of-threadpoolexecutor/)
 - [Ways to Make 2 Threads Execute by Turns in Java](https://jan-wee.net/2023/04/24/ways-to-make-threads-execute-in-turns-in-java/)
 - [Building a CI/CD Pipeline with GitHub, Docker, and Jenkins](https://jan-wee.net/2023/04/24/building-a-cicd-pipeline-using-jenkins-docker-and-github/)
