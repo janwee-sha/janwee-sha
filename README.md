@@ -15,7 +15,7 @@
 <p>&emsp;&emsp;My name is Janwee, a software engineer with 3 years' work experience.</p>
 <p>&emsp;&emsp;I think being a computer geek is a cool thing, and I'm trying to become one. We developers can do lots of incredible things with some curiosity and hard work.</p>
 <p>&emsp;&emsp;I love typing codes, and reading them, especially clean and maintainable codes.</p>
-<p>&emsp;&emsp;My motto is "Few unquestionable truths; most are errors wrapped in authority."</p>
+<p>&emsp;&emsp;My motto is "Few unquestionable truths exist; most are errors wrapped in authority."</p>
 
 ## &#x270d; Blogs
 
